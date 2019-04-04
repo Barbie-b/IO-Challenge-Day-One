@@ -1,0 +1,12 @@
+Student ID# 	Firstname 	LastName 	DOB       	Address
+123        	Tim       	Smith    	1996205  	777 Heavens way
+150         	diablo     	Ho       	19900420  	666 Hells Gate
+999          	Tom        	Doe     	19860215  	999 Nevermind
+999          	Tom        	Doe     	19860215  	999 Nevermind
+100           	Buffy      	Slayer  	19960314  	456 Seven
+225           	Leroy       	Jackson 	20001114  	123 Right Here Alley
+849            	Bruce       	Lee     	19560215  	333 Enter the Dragon
+123            	Tom         	Smith    	19890130  	321 Zero
+123           	Dick         	Smith    	19880615  	836 Pick Up Sticks
+150            	Harry        	Ho       	19870420  	577 Eleven
+643            	Jane         	Doe      	19860210  	888 Haight
